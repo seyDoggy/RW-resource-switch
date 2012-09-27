@@ -54,22 +54,22 @@ It doesn't matter whether you are using local only or CDN plus local fall-back, 
 Here some of the possible commands:
 
 ```bash
-\# switch to local
+# switch to local
 switch.sh -l local
 
-\# switch to cdn
+# switch to cdn
 switch.sh -l cdn
 
-\# update local files
+# update local files
 switch.sh -u update
 
-\# revert to last save
+# revert to last save
 switch.sh -u revert
 
-\# check switch.sh version 
+# check switch.sh version 
 switch.sh -V
 
-\# check switch.sh release date
+# check switch.sh release date
 switch.sh -D
 ```
 
